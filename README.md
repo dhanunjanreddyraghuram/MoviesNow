@@ -133,13 +133,13 @@ http://127.0.0.1:5000/
 ## 👥 Team Members
 
 * **Dhanunjan Reddy Raghuram**
-* *Other team members (add names here if applicable)*
+* **Ranjith Kumar Kanumilli**
 
 **Program:** Business Analytics & Information Systems
 **University:** University of South Florida
 
 📧 Email: [raghuramdhanunjanreddy@gmail.com](mailto:raghuramdhanunjanreddy@gmail.com)
-🔗 LinkedIn: [linkedin.com/in/dhanunjan-reddy-raghuram](https://www.linkedin.com/in/dhanunjan-reddy-raghuram)
+🔗 LinkedIn: [linkedin.com/in/dhanunjan-reddy-raghuram](https://www.linkedin.com/in/dhanunjanreddyraghuram)
 
 ---
 
