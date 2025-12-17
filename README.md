@@ -78,36 +78,6 @@ MoviesNow-main/
 │
 └── Readme.txt
 ```
-
----
-
-## 🚀 How to Run the Application
-
-### 1️⃣ Prerequisites
-
-* Python 3.x
-* Flask
-
-### 2️⃣ Install Flask
-
-```bash
-pip install flask
-```
-
-### 3️⃣ Run the Application
-
-```bash
-python app.py
-```
-
-### 4️⃣ Access the Application
-
-Open your browser and navigate to:
-
-```
-http://127.0.0.1:5000/
-```
-
 ---
 
 ## 📊 Distributed Systems Concepts Demonstrated
